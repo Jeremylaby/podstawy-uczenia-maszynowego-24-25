@@ -15,12 +15,13 @@ dependencies = [
     "pillow",
     "pyarrow",
     "pynndescent",
+    "ruff>=0.11.0",
     "scikit-fingerprints",
     "scikit-learn",
     "seaborn",
     "sentence_transformers",
     "torch",
-    "tqdm"
+    "tqdm",
 ]
 
 [dependency-groups]
