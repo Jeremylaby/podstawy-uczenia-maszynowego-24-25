@@ -1,0 +1,12 @@
+Ridge regression :
+Train RMSE 17631.36, MAE: 12206.54
+Test  RMSE 18468.65, MAE: 12953.59
+Lasso regression :
+Train RMSE 17956.95, MAE: 12378.13
+Test  RMSE 18509.69, MAE: 12948.91
+LAD regression :
+Train RMSE 18170.97, MAE: 11649.58
+Test  RMSE 18189.07, MAE: 12371.05
+Huber regression :
+Train RMSE 18584.63, MAE: 11701.18
+Test  RMSE 17988.23, MAE: 12246.93
