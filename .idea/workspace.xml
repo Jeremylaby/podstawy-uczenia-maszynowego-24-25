@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78378971-2454-4c1d-b8d6-d6779a5eb78b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab3/.ipynb_checkpoints/notebook-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;lab2&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab3&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -74,6 +76,9 @@
       <workItem from="1744134745414" duration="4904000" />
       <workItem from="1744188550169" duration="8394000" />
       <workItem from="1744272686087" duration="7540000" />
+      <workItem from="1745356913506" duration="355000" />
+      <workItem from="1745398841168" duration="3101000" />
+      <workItem from="1745419043568" duration="12947000" />
     </task>
     <servers />
   </component>
