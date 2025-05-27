@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78378971-2454-4c1d-b8d6-d6779a5eb78b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +86,12 @@
       <workItem from="1748177440282" duration="775000" />
       <workItem from="1748250378629" duration="4683000" />
       <workItem from="1748276943336" duration="13994000" />
+<<<<<<< Updated upstream
       <workItem from="1748335535534" duration="10449000" />
       <workItem from="1748359190691" duration="3418000" />
+=======
+      <workItem from="1748335535534" duration="10528000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
